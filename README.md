@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @IzildoPimentel
-- 👀 I’m interested in mobile development in general from games to business applications.
-- 🌱 I’m currently learning more about buildng game applications with Unity.
-- 💞️ I’m looking to collaborate on projects, so I can build more experience as an developer.
+- 👋 Hi, I’m @IzildoPimentel  
+- 👀 I’m passionate about mobile and cross-platform development, from business applications to games.  
+- 🌱 I’m currently deepening my skills in building game applications with Unity and leveraging .NET for backend systems and tools.  
+- 💞️ I’m looking to collaborate on projects where I can grow as a developer and explore full-stack, cross-platform, and game development solutions.
 - 📫 How to reach me:
-- Linkedin: https://www.linkedin.com/in/izildo-pimentel/
+- LinkedIn: https://www.linkedin.com/in/izildo-pimentel/
 
 <!---
 IzildoPimentel/IzildoPimentel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
