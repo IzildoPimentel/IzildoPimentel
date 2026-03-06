@@ -1,17 +1,34 @@
 ## 👋 Hi, I’m Izildo
 
-I’m a developer with a strong interest in **mobile and cross-platform development**, working with technologies that scale across Android, iOS, and desktop. I enjoy building everything from **business-focused applications** to **game-related tools and experiences**.
+👨‍💻 About Me
 
-### 🔧 What I’m focusing on
-- Strengthening my skills in **Unity game development**
-- Expanding my knowledge of **C# and the .NET ecosystem**
-- Learning how to build **clean, scalable backends** that support multiplatform apps
+I’m a developer focused on C++ systems and cross-platform development. I enjoy building high-performance tools, graphics experiments, and game-related systems, with an emphasis on clean architecture and efficient code.
 
-### 🎯 What I’m looking for
-I’m open to collaborating on projects — whether it’s mobile apps, Unity game prototypes, or .NET-based tools — so I can keep growing my experience as a developer.
+🔧 Current Focus
 
-### 🚀 Why .NET + Unity?
-The .NET ecosystem gives me the power to build **cross-platform applications**, while Unity lets me explore **interactive and game development**. Combining both allows me to create applications, prototypes, and tools that work on multiple platforms with one tech stack.
+Modern C++ (C++17/20)
+
+Graphics programming with OpenGL
+
+Designing engine and game architecture systems
+
+Building cross-platform C++ tools and applications
+
+🎯 Goals
+
+I’m looking to collaborate on C++ projects such as:
+
+Engine systems
+
+Graphics or rendering experiments
+
+Developer tools
+
+Gameplay or engine prototypes
+
+🚀 Why C++?
+
+C++ provides the control and performance needed for systems programming, game development, and graphics. It allows me to build portable, efficient software that can scale from low-level tools to full applications.
 
 <!---
 IzildoPimentel/IzildoPimentel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
