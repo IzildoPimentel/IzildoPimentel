@@ -7,23 +7,16 @@ I’m a developer focused on C++ systems and cross-platform development. I enjoy
 🔧 Current Focus
 
 Modern C++ (C++17/20)
-
 Graphics programming with OpenGL
-
 Designing engine and game architecture systems
-
 Building cross-platform C++ tools and applications
 
 🎯 Goals
 
 I’m looking to collaborate on C++ projects such as:
-
 Engine systems
-
 Graphics or rendering experiments
-
 Developer tools
-
 Gameplay or engine prototypes
 
 🚀 Why C++?
